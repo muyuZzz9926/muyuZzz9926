@@ -99,11 +99,11 @@ looking_for:
 
 | Project | What it solves | Stack |
 | :--- | :--- | :--- |
+| [`minesweeper`](https://github.com/muyuZzz9926/minesweeper) | Dependency-free web minesweeper, 42 tests, playable online | Vanilla JS · Zero deps |
 | `edge-detector` | Real-time object detection on Jetson, INT8 quantized | PyTorch · TensorRT |
 | `cv-pipeline` | Data → train → export → serve, one command | Python · Docker |
-| `vision-utils` | Reusable augmentations, metrics, viz helpers | NumPy · OpenCV |
 
-<sub>This table is a placeholder — replace it as real repos land. Keeping it honest beats keeping it full.</sub>
+<sub>Planned rows are placeholders — they land as real repos ship. Keeping it honest beats keeping it full.</sub>
 
 <br/>
 
